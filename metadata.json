@@ -1,0 +1,6 @@
+{
+  "name": "GILVEXPRO CLOUD",
+  "description": "Sistema de gestión comercial telecomunicaciones, administración de metas, comisiones, alertas de renovación a 6 meses y respaldo en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
